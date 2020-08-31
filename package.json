@@ -1,0 +1,19 @@
+{
+  "name": "bch1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --timeout 100000 test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^85.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "add": "^2.0.6",
+    "mocha": "^8.1.3"
+  }
+}
